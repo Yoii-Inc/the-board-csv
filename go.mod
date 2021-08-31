@@ -1,4 +1,4 @@
-module github.com/taskooh/the-board-csv
+module github.com/Yoii-Inc/the-board-csv
 
 go 1.16
 
